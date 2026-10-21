@@ -5,7 +5,7 @@ This project is a Java-based library management system for Maple Leaf Public Lib
 ## Java Version
 This project is built using Java SE-25 (Java 21 or higher is required).
 
-## Project Structure
+## Project Structure and Hierarchy 
 
 ```text
 Midterm_LiamArmstrong_Fall2026
@@ -26,10 +26,6 @@ Midterm_LiamArmstrong_Fall2026
         │   └── SeniorLibrarian.java
         └── tests
             └── LibraryManagementSystemTest.java
-
-## Project Hyerarchy
-
-```text
 
 Person (abstract)
 ├── Member
