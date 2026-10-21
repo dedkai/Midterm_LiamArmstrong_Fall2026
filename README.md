@@ -1,9 +1,9 @@
 # Maple Leaf Public Library Management System
 
-This project is a Java-based library management system for Maple Leaf Public Library. It demonstrates object-oriented programming concepts including inheritance, abstraction, polymorphism, interfaces, method overloading, validation, and static counters.
+This project is a Java-based library management system for Maple Leaf Public Library.
 
 ## Java Version
-This project is built using Java SE-25 (Java 21 or higher is required).
+This project is built using Java SE-25.
 
 ## Project Structure and Hierarchy 
 
