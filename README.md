@@ -26,3 +26,14 @@ Midterm_LiamArmstrong_Fall2026
         │   └── SeniorLibrarian.java
         └── tests
             └── LibraryManagementSystemTest.java
+
+## Project Hyerarchy
+
+```text
+
+Person (abstract)
+├── Member
+└── LibraryStaff (abstract)
+    ├── Librarian
+    │   └── SeniorLibrarian
+    └── LibraryAssistant
